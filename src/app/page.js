@@ -19,13 +19,13 @@ export default function Home() {
         <section className={homeStyles.productShowcase}>
         <div className={homeStyles.product1}>
           <img src="/product1.jpg" alt="Product 1" className={homeStyles.productImage1} />
-            <h2 style={{color:'white'}}>Product 1</h2>
+            <h2 style={{color:'white'}}>Neon Kuromi Sign</h2>
             <p style={{color:'white'}}>$19.99</p>
           </div>
 
           <div className={homeStyles.product2}>
           <img src="/product2.jpg" alt="Product 2" className={homeStyles.productImage2} />
-          <h2 style={{ color: 'white', margin: '0.5rem 0' }}>Product 2</h2>
+          <h2 style={{ color: 'white', margin: '0.5rem 0' }}>Hello Kitty Plush</h2>
             <p style={{color: 'white',}}>$6.99</p>
           </div>
         </section>
