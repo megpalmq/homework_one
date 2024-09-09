@@ -25,7 +25,7 @@ export default function Home() {
 
           <div className={homeStyles.product2}>
           <img src="/product2.jpg" alt="Product 2" className={homeStyles.productImage2} />
-          <h2 style={{ color: 'white', margin: '0.5rem 0' }}>Product 1</h2>
+          <h2 style={{ color: 'white', margin: '0.5rem 0' }}>Product 2</h2>
             <p style={{color: 'white',}}>$6.99</p>
           </div>
         </section>
